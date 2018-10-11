@@ -4,9 +4,12 @@ Android Webview Equivalent in Electronjs
 ## To start
 You should have electronjs installed and then
 
-clone this repo
-cd into the directory
-> npm install
-<
-then
-> npm start
+> clone this repo and cd into the directory, then
+
+```bash
+$ npm install
+```
+
+```bash
+$ npm start
+```

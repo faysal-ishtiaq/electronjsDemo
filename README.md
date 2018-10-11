@@ -7,4 +7,5 @@ You should have electronjs installed and then
 clone this repo
 cd into the directory
 > npm install
+then
 > npm start
